@@ -1,0 +1,13 @@
+{
+  "title": "Complete project documentation",
+  "description": "Write full API docs for the todo application",
+  "notes": "Use Swagger and Postman collection",
+  "refLink": "https://docs.example.com/guide",
+  "startDate": "2025-07-01",
+  "endDate": "2025-07-10",
+  "startTime": "09:00:00",
+  "endTime": "17:00:00",
+  "priority": "HIGH",
+  "status": "PENDING",
+  "tags": ["docs", "backend", "api"]
+}
